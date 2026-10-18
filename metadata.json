@@ -1,6 +1,9 @@
 {
   "name": "TerraPulse - OpenStreetMap & Exact Location Explorer",
   "description": "Professional geospatial location tracker and map template powered by OpenStreetMap with zero API costs.",
-  "requestFramePermissions": ["geolocation"],
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
   "majorCapabilities": []
 }

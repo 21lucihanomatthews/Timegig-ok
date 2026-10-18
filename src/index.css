@@ -22,3 +22,8 @@
 .leaflet-top, .leaflet-bottom {
   z-index: 20 !important;
 }
+
+/* Hide Leaflet OpenStreetMap contributors attribution */
+.leaflet-control-attribution {
+  display: none !important;
+}
